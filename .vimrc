@@ -140,4 +140,8 @@ let NERDTreeIgnore = ['\.pyc$', '\.pyo$']
 let NERDTreeMinimalUI=1
 " 显示隐藏文件
 let NERDTreeShowHidden=1
-
+" 显示行号
+"let NERDTreeShowLineNumbers=1
+"let NERDTreeAutoCenter=1
+" 删除文件时自动删除文件对应 buffer
+let NERDTreeAutoDeleteBuffer=1
